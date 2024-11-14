@@ -1,0 +1,1 @@
+console.log("Each folder has its own index file to run them cd folder_name node index.js")
